@@ -4,4 +4,4 @@ I'm Christopher Sun, a computer science major at UC Irvine! I work on a variety 
 
 More details can be found in my [portfolio website!](https://choollol.github.io/portfolio-website/)  
 
-Feel free to contact me through the [contact page](https://choollol.github.io/portfolio-website/#/contact) on my portfolio website or through [LinkedIn](https://www.linkedin.com/in/christopher-sun1/).
+Feel free to contact me through the [contact page on my portfolio website](https://choollol.github.io/portfolio-website/#/contact) or through [LinkedIn](https://www.linkedin.com/in/christopher-sun1/).
