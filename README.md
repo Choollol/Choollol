@@ -1,6 +1,6 @@
 ## A Brief Introduction
 
-I'm Christopher Sun, a computer science major at UC Irvine! I work on a variety of projects, including video games and web-development projects.  
+Hi, I'm Christopher Sun, a computer science major at UC Irvine! I work on a variety of projects, including video games and web-development projects.  
 
 More details can be found in my [portfolio website!](https://choollol.github.io/portfolio-website/)  
 
